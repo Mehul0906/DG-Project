@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* .admission_img,.admission_details {
+  width: 50%;
+  padding: 20px;
+  text-align: center;
+}
+
+.admission_row {
+  display: flex;
+  max-width: 1070px;
+  margin: auto;
+  align-items: center;
+  border: 1px solid #F9D408;
+  border-radius: 40px;
+ 
+}
+
+.admission_details h5 {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  margin: 20px 0;
+}
+
+input[type="text"] {
+  width: 100%;
+  height: 45px;
+  border-radius: 10px;
+  border: 1px solid #F9D408;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.admission_open {
+  background-color: black;
+  padding: 20px 0;
+}
+
+.admission_img h2 {
+  color: #F9D408;
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+
+button {
+  background: #F9D408;
+  height: 57px;
+  width: 215px;
+  border: 0;
+  border-radius: 10px;
+} */
+
+
+:root{
+  --tx-green: #26d48c;
+  --bg-blue: #1842b6;
+  --hover-blue: #134ae0;
+  --bg-light: #f8f8f9;
+  --bg-lightgray: #e3f0eb;
+  --tx-gray: #787878;
+}
+.head-1{
+  background-color: white;
+  padding: 0px 5px;
+}
+
